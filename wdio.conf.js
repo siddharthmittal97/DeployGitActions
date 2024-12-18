@@ -64,7 +64,7 @@ capabilities: [{
     // Optional: If outputDir is provided, WebDriverIO can capture driver session logs
     // excludeDriverLogs: ['*'], // Excludes all driver session logs
     // excludeDriverLogs: ['bugreport', 'server'], // Customize log exclusion as needed
-}]
+}],
     //
     // ===================
     // Test Configurations
